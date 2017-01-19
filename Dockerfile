@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.3
+FROM registry.cn-hangzhou.aliyuncs.com/acs/alpine:3.3
 MAINTAINER Bruno Celeste <bruno@coconut.co>
 
 ENV FFMPEG_VERSION=3.0.2
